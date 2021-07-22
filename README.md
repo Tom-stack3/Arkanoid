@@ -1,6 +1,6 @@
 # Arkanoid
 The classic Arcade game, written in Java.
-Gameplay of the game can be found [here](https://www.youtube.com/watch?v=8FuUTDgTrU8).
+Gameplay can be found [here](https://www.youtube.com/watch?v=8FuUTDgTrU8).
 
 
 ## Installation
@@ -12,3 +12,9 @@ Gameplay of the game can be found [here](https://www.youtube.com/watch?v=8FuUTDg
 ## Running the game
 To run with ant (Apache Ant):\
 `ant run `
+
+## Screenshots
+<img src="./img/level1.png" alt="level 1" width="650"/>
+<img src="./img/level2.png" alt="level 2" width="650"/>
+<img src="./img/level3.png" alt="level 3" width="650"/>
+<img src="./img/level4.png" alt="level 4" width="650"/>
