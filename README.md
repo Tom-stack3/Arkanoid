@@ -7,6 +7,6 @@ The classic Arcade game, written in Java.
 2. Compile with ant:\
    `ant compile`
 
-## Usage
+## Running the game
 To run with ant (Apache Ant):\
 `ant run `
