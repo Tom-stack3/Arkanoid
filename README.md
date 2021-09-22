@@ -10,8 +10,10 @@ Gameplay can be found [here](https://www.youtube.com/watch?v=8FuUTDgTrU8).
    `ant compile`
 
 ## Running the game
-To run with ant (Apache Ant):\
-`ant run `
+To run with ant (Apache Ant):
+```shell
+ant run
+```
 
 ## Screenshots
 <img src="./img/level1.png" alt="level 1" width="650"/>
